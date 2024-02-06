@@ -1,31 +1,31 @@
-id: 527c3070-281a-4e94-b525-2b2688a2707c
+id: 3a4bb63d-0ef4-4913-982a-cbad8180f4f8
 name: First Canvas
-project_id: 957f1678-1368-418b-b5bf-7c168a2443a9
+project_id: 7c115b35-08a6-4c48-a733-3c7eddf3f4fd
 global_imports: []
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 527c3070-281a-4e94-b525-2b2688a2707c
+    canvas_id: 3a4bb63d-0ef4-4913-982a-cbad8180f4f8
     cpu: null
     description: ''
-    height: 718
-    id: e54d88e3-7221-48f4-a765-3ccb55a52991
+    height: 500
+    id: a81870de-d268-48ea-94fd-4dd760f770fe
     is_fargate: false
-    layer_id: 5158c0aa-609f-4d1e-9207-e87e09c7a380
+    layer_id: a60416b7-e1c1-447e-ba07-359ea836df48
     memory: null
-    name: blockX
+    name: ''
     parent_id: null
     properties: {}
     status: 1
     type: 1
     variables: null
-    width: 1304
-    x: -231
-    y: 154
-  canvas_id: 527c3070-281a-4e94-b525-2b2688a2707c
+    width: 800
+    x: 338
+    y: 43
+  canvas_id: 3a4bb63d-0ef4-4913-982a-cbad8180f4f8
   edges: []
-  id: 5158c0aa-609f-4d1e-9207-e87e09c7a380
+  id: a60416b7-e1c1-447e-ba07-359ea836df48
   name: Development
   type: 1
