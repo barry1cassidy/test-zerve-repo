@@ -1,24 +1,96 @@
-id: a60416b7-e1c1-447e-ba07-359ea836df48
+id: dca05a74-26c3-4b5b-aefd-9b35466bef45
 name: Development
 type: 1
-canvas_id: 3a4bb63d-0ef4-4913-982a-cbad8180f4f8
+canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
 blocks:
 - auto_size: false
-  canvas_id: 3a4bb63d-0ef4-4913-982a-cbad8180f4f8
+  canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
   cpu: null
   description: ''
   height: 500
-  id: a81870de-d268-48ea-94fd-4dd760f770fe
+  id: 0a471345-08ad-4d3d-80ad-054412d920c6
   is_fargate: false
-  layer_id: a60416b7-e1c1-447e-ba07-359ea836df48
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
   memory: null
-  name: ''
+  name: Dataframe Query Block
+  parent_id: null
+  properties:
+    input_dataframe: users_dataframe
+    output_variable: output_dataframe
+    state_variables:
+    - creator_block_id: 57db9afb-b7df-421a-8d71-37dcaa767819
+      name: users_dataframe
+      source_block_id: 57db9afb-b7df-421a-8d71-37dcaa767819
+  status: 3
+  type: 3
+  variables: null
+  width: 800
+  x: 1412
+  y: 522
+- auto_size: false
+  canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
+  cpu: null
+  description: ''
+  height: 500
+  id: 31c8ade3-6de7-4dce-973a-685cc9c0a01c
+  is_fargate: false
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
+  memory: null
+  name: Random Block
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: 403
+  y: -149
+- auto_size: false
+  canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
+  cpu: null
+  description: ''
+  height: 500
+  id: c332219c-9ff1-4726-b546-1cf37c157780
+  is_fargate: false
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
+  memory: null
+  name: Query Results Block
   parent_id: null
   properties: {}
   status: 1
   type: 1
   variables: null
   width: 800
-  x: 338
-  y: 43
-edges: []
+  x: 195
+  y: 1035
+- auto_size: false
+  canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
+  cpu: null
+  description: ''
+  height: 500
+  id: 57db9afb-b7df-421a-8d71-37dcaa767819
+  is_fargate: false
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
+  memory: null
+  name: Query Block
+  parent_id: null
+  properties:
+    connection_id: 38d40ad0-18b4-4ada-a85d-c494099a57e2
+    output_variable: users_dataframe
+  status: 3
+  type: 3
+  variables: null
+  width: 800
+  x: -745
+  y: 98
+edges:
+- canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
+  id: 323e20b1-f56a-4a8a-891b-a77c8d88cbc9
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
+  source: 57db9afb-b7df-421a-8d71-37dcaa767819
+  target: c332219c-9ff1-4726-b546-1cf37c157780
+- canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
+  id: 25cc08be-86fc-46d7-81fc-6034fe670131
+  layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
+  source: 31c8ade3-6de7-4dce-973a-685cc9c0a01c
+  target: 0a471345-08ad-4d3d-80ad-054412d920c6
