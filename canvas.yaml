@@ -35,19 +35,19 @@ layers:
     cpu: null
     description: ''
     height: 500
-    id: 31c8ade3-6de7-4dce-973a-685cc9c0a01c
+    id: c64dbb0a-1786-4c4e-adf3-65b56315bd50
     is_fargate: false
     layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
     memory: null
-    name: Random Block
+    name: New Random Block
     parent_id: null
     properties: {}
-    status: 3
+    status: 1
     type: 1
     variables: null
     width: 800
-    x: 403
-    y: -149
+    x: 458
+    y: 12
   - auto_size: false
     canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
     cpu: null
@@ -94,9 +94,9 @@ layers:
     source: 57db9afb-b7df-421a-8d71-37dcaa767819
     target: c332219c-9ff1-4726-b546-1cf37c157780
   - canvas_id: 7256467a-5493-405d-bbea-4f736a1a9b40
-    id: 25cc08be-86fc-46d7-81fc-6034fe670131
+    id: 22449b4f-167a-4d93-8351-572a2ea51cd1
     layer_id: dca05a74-26c3-4b5b-aefd-9b35466bef45
-    source: 31c8ade3-6de7-4dce-973a-685cc9c0a01c
+    source: c64dbb0a-1786-4c4e-adf3-65b56315bd50
     target: 0a471345-08ad-4d3d-80ad-054412d920c6
   id: dca05a74-26c3-4b5b-aefd-9b35466bef45
   name: Development
