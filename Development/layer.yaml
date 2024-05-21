@@ -9,34 +9,34 @@ blocks:
   cpu: 2048
   description: ''
   height: 500
-  id: 4b20b8f0-0a81-4589-9a10-3d592bff8e8f
-  layer_id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
-  memory: 16384
-  name: Goodbye
-  parent_id: null
-  properties: {}
-  status: 3
-  type: 1
-  variables: null
-  width: 800
-  x: 1117
-  y: 160
-- auto_size: false
-  canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
-  compute_environment_type: 1
-  cpu: 2048
-  description: ''
-  height: 500
   id: 48ec0cb9-850d-4959-9ad0-231b752cfd68
   layer_id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
   memory: 16384
   name: Hello
   parent_id: null
   properties: {}
-  status: 3
+  status: 1
   type: 1
   variables: null
   width: 800
   x: 182
   y: 45
+- auto_size: false
+  canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 4b20b8f0-0a81-4589-9a10-3d592bff8e8f
+  layer_id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
+  memory: 16384
+  name: Goodbye
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 1119
+  y: 160
 edges: []
