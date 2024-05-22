@@ -1,5 +1,5 @@
 id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
-name: Test Canvas - Changed - (second_branch)
+name: Test Canvas - Changed - (third_branch)
 project_id: 11e55a5a-fcc7-4fed-8ca4-53ea618303f6
 global_imports: []
 is_public: false
@@ -42,13 +42,36 @@ layers:
     width: 800
     x: 1119
     y: 160
+  - auto_size: false
+    canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 8bad4bad-84c1-4f3f-8eff-5ac4a9fe5f73
+    layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
+    memory: 16384
+    name: Added Block
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 2039
+    y: 105
   canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
   edges:
-  - canvas_id: 9120ddb0-237d-4ecc-83e4-3046d3f19285
-    id: 9d18c91e-4005-485f-9268-38f03c19388a
-    layer_id: 6b8a99d1-4dcf-404a-b9d4-b576a3ccdfbe
-    source: 905a9eb2-f3cb-4261-8127-907da8e5ad88
-    target: 684d8b2a-a413-4367-b3ea-73dd1a48bad5
+  - canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
+    id: 3704a1a9-ba4d-4f68-8097-c8d008b19bc6
+    layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
+    source: b654e6d8-be9f-407b-a503-3e730a2f0714
+    target: 168d4e36-8351-4933-b80e-8a21892cd724
+  - canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
+    id: bab37e07-ab0d-4336-8a60-9990e4dadc8c
+    layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
+    source: 168d4e36-8351-4933-b80e-8a21892cd724
+    target: 8bad4bad-84c1-4f3f-8eff-5ac4a9fe5f73
   id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
   name: Development
   type: 1
