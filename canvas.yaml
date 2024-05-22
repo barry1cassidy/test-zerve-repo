@@ -22,8 +22,8 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 121
-    y: 45
+    x: 97
+    y: 243
   - auto_size: false
     canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
     compute_environment_type: 1
@@ -40,8 +40,8 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 1119
-    y: 160
+    x: 1017
+    y: -156
   - auto_size: false
     canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
     compute_environment_type: 1
@@ -58,8 +58,8 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 2039
-    y: 105
+    x: 1969
+    y: 209
   canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
   edges:
   - canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
