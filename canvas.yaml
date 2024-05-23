@@ -1,5 +1,5 @@
 id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-name: New Main Canvas - (test_branch_2)
+name: Test Canvas - Main - (test_branch_4)
 project_id: 72721941-a961-499b-a1c1-8e34fcabcbf6
 global_imports: []
 is_public: false
@@ -42,13 +42,41 @@ layers:
     width: 800
     x: 182
     y: 45
+  - auto_size: false
+    canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 19da23ec-84ca-43e3-bc9c-15998c7da78e
+    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+    memory: 16384
+    name: Added
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 2037
+    y: -28
   canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
   edges:
   - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
     id: 44e2cef0-a426-4b55-be41-3653ef53ae23
     layer_id: 3097c9db-be44-489d-981b-44de67f6357c
-    source: 70de507a-2e58-49f5-bb2e-499a71e198ac
-    target: 182c86a0-282f-4115-b8de-2f377a8d640a
+    source: None
+    target: None
+  - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+    id: 3ea842dd-d477-4102-8165-3043767f74a8
+    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+    source: 3121d6d5-8174-454a-ac77-4611766ac7a4
+    target: 08eb4414-f699-4349-9611-4a39e8e3cd88
+  - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+    id: e6cdf6dc-f818-40b8-9d01-1b1dc84f9f4d
+    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+    source: 08eb4414-f699-4349-9611-4a39e8e3cd88
+    target: 19da23ec-84ca-43e3-bc9c-15998c7da78e
   id: 3097c9db-be44-489d-981b-44de67f6357c
   name: Development
   type: 1
