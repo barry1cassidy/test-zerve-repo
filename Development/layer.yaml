@@ -1,16 +1,16 @@
-id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
+id: 3b39962a-33b8-4289-8024-4e22e85d1235
 name: Development
 type: 1
-canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
+canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
 blocks:
 - auto_size: false
-  canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
+  canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
   compute_environment_type: 1
   cpu: 2048
   description: ''
   height: 500
-  id: 48ec0cb9-850d-4959-9ad0-231b752cfd68
-  layer_id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
+  id: 7edcb71f-66bc-451b-84f3-02df2d44a57c
+  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
   memory: 16384
   name: Hello
   parent_id: null
@@ -19,16 +19,16 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 97
-  y: 243
+  x: 66
+  y: -11
 - auto_size: false
-  canvas_id: aefd39e9-87df-4969-9b9a-68aaa84f4bab
+  canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
   compute_environment_type: 1
   cpu: 2048
   description: ''
   height: 500
-  id: 4b20b8f0-0a81-4589-9a10-3d592bff8e8f
-  layer_id: f2ef1cc3-f815-4e4b-a995-d0fd8ef5c346
+  id: 081cc952-b147-43e6-9c0d-10e432af4dae
+  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
   memory: 16384
   name: Goodbye
   parent_id: null
@@ -37,34 +37,6 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 1017
-  y: -156
-- auto_size: false
-  canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
-  compute_environment_type: 1
-  cpu: 2048
-  description: ''
-  height: 500
-  id: 8bad4bad-84c1-4f3f-8eff-5ac4a9fe5f73
-  layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
-  memory: 16384
-  name: Added Block
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 1969
-  y: 209
-edges:
-- canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
-  id: 3704a1a9-ba4d-4f68-8097-c8d008b19bc6
-  layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
-  source: b654e6d8-be9f-407b-a503-3e730a2f0714
-  target: 168d4e36-8351-4933-b80e-8a21892cd724
-- canvas_id: 35702fc7-867c-48f5-a4a6-89edcf74b91a
-  id: bab37e07-ab0d-4336-8a60-9990e4dadc8c
-  layer_id: 1ea41265-92bf-4473-bfdf-e53e65f7a098
-  source: 168d4e36-8351-4933-b80e-8a21892cd724
-  target: 8bad4bad-84c1-4f3f-8eff-5ac4a9fe5f73
+  x: 986
+  y: 99
+edges: []
