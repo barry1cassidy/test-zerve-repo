@@ -39,4 +39,9 @@ blocks:
   width: 800
   x: 182
   y: 45
-edges: []
+edges:
+- canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+  id: 44e2cef0-a426-4b55-be41-3653ef53ae23
+  layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+  source: 70de507a-2e58-49f5-bb2e-499a71e198ac
+  target: 182c86a0-282f-4115-b8de-2f377a8d640a
