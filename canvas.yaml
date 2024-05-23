@@ -48,7 +48,7 @@ layers:
     cpu: 2048
     description: ''
     height: 500
-    id: 596f9d6b-428c-4347-83d8-b466580387db
+    id: 7565f97c-8705-4b54-ba3d-8faca93303d0
     layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
     memory: 16384
     name: Added
@@ -61,17 +61,7 @@ layers:
     x: 2037
     y: -93
   canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
-  edges:
-  - canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
-    id: 2a546452-e0db-4671-80a5-bfef9933ae68
-    layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
-    source: 2fb1ea94-7d0c-459b-90ce-449e3313ac11
-    target: 132bf3e1-f3e8-4b59-92b2-4e8ee2848ff9
-  - canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
-    id: 66c65332-8149-4622-abbe-494a813028ce
-    layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
-    source: 132bf3e1-f3e8-4b59-92b2-4e8ee2848ff9
-    target: 596f9d6b-428c-4347-83d8-b466580387db
+  edges: []
   id: ff46a769-e1a2-4881-a1c8-706ba093497b
   name: Development
   type: 1
