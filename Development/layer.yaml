@@ -1,34 +1,16 @@
-id: 3b39962a-33b8-4289-8024-4e22e85d1235
+id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
 name: Development
 type: 1
-canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
+canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
 blocks:
 - auto_size: false
-  canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
+  canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
   compute_environment_type: 1
   cpu: 2048
   description: ''
   height: 500
-  id: 7edcb71f-66bc-451b-84f3-02df2d44a57c
-  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
-  memory: 16384
-  name: Hello
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: 66
-  y: -11
-- auto_size: false
-  canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
-  compute_environment_type: 1
-  cpu: 2048
-  description: ''
-  height: 500
-  id: 081cc952-b147-43e6-9c0d-10e432af4dae
-  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
+  id: 26ed70a9-3556-4fe1-a50d-11a9bd471d10
+  layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
   memory: 16384
   name: Goodbye
   parent_id: null
@@ -37,34 +19,24 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 986
-  y: 99
+  x: 1117
+  y: 160
 - auto_size: false
-  canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
+  canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
   compute_environment_type: 1
   cpu: 2048
   description: ''
   height: 500
-  id: f8c85af9-ac51-4a71-9ee8-93f0121c0a1b
-  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
+  id: 3888a9a6-e459-4e95-ad56-b370874ae285
+  layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
   memory: 16384
-  name: Added block
+  name: Hello
   parent_id: null
   properties: {}
   status: 1
   type: 1
   variables: null
   width: 800
-  x: 1906
-  y: 43
-edges:
-- canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
-  id: ae0b29af-6ba3-4b9f-909b-728aa01a4f3e
-  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
-  source: eed1f3cb-a5fa-4a22-9321-dd8b1782529f
-  target: ba0fdf4c-0969-4a97-9e00-71198f61ddc5
-- canvas_id: 7ee9ef87-db78-4752-b3ee-b3ffc18c3d40
-  id: 0ed4258e-8867-46c4-b812-c88fb3b3bc6a
-  layer_id: 3b39962a-33b8-4289-8024-4e22e85d1235
-  source: ba0fdf4c-0969-4a97-9e00-71198f61ddc5
-  target: f8c85af9-ac51-4a71-9ee8-93f0121c0a1b
+  x: 182
+  y: 45
+edges: []
