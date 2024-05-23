@@ -1,5 +1,5 @@
 id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
-name: New Main Canvas
+name: New Main Canvas - (test_branch_1)
 project_id: 3ec009fb-9b9f-4a20-81d5-9bd243e398b4
 global_imports: []
 is_public: false
@@ -12,18 +12,18 @@ layers:
     cpu: 2048
     description: ''
     height: 500
-    id: 26ed70a9-3556-4fe1-a50d-11a9bd471d10
+    id: be9b4faa-c524-48de-b52d-deb0c3945941
     layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
     memory: 16384
-    name: Goodbye
+    name: Added Block
     parent_id: null
     properties: {}
-    status: 1
+    status: 3
     type: 1
     variables: null
     width: 800
-    x: 1117
-    y: 160
+    x: 2037
+    y: 70
   - auto_size: false
     canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
     compute_environment_type: 1
@@ -36,14 +36,42 @@ layers:
     name: Hello
     parent_id: null
     properties: {}
-    status: 1
+    status: 3
     type: 1
     variables: null
     width: 800
     x: 182
     y: 45
+  - auto_size: false
+    canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 26ed70a9-3556-4fe1-a50d-11a9bd471d10
+    layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
+    memory: 16384
+    name: Goodbye
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 1117
+    y: 160
   canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
-  edges: []
+  edges:
+  - canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
+    id: 557dbf7e-d109-40bb-8a87-feabad2d140d
+    layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
+    source: 06454007-386c-4aef-ae84-fede9aa7c419
+    target: c2e84fed-e56e-49ad-8e7f-129700fd1ac8
+  - canvas_id: 97ba4d6b-23ce-41b4-a207-1509d81eecb5
+    id: 307e113c-b006-438c-874f-31cbf49ad04b
+    layer_id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
+    source: c2e84fed-e56e-49ad-8e7f-129700fd1ac8
+    target: be9b4faa-c524-48de-b52d-deb0c3945941
   id: e7394a4a-3fcb-4ceb-b546-4f0007e37f8b
   name: Development
   type: 1
