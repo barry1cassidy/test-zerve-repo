@@ -1,19 +1,19 @@
-id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-name: Test Canvas - Main - (test_branch_4)
-project_id: 72721941-a961-499b-a1c1-8e34fcabcbf6
+id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
+name: Test Canvas - Main
+project_id: 909b508a-a6f1-4c23-b69d-7c1132cd1c2c
 global_imports: []
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+    canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: 08eb4414-f699-4349-9611-4a39e8e3cd88
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+    id: 9046daff-014b-4694-9b3f-c61d1d08edb4
+    layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
     memory: 16384
     name: Goodbye
     parent_id: null
@@ -25,13 +25,13 @@ layers:
     x: 1117
     y: 160
   - auto_size: false
-    canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
+    canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: 3121d6d5-8174-454a-ac77-4611766ac7a4
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
+    id: 91e3d36e-4c69-4547-94ce-a24213aef6a5
+    layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
     memory: 16384
     name: Hello
     parent_id: null
@@ -42,41 +42,8 @@ layers:
     width: 800
     x: 182
     y: 45
-  - auto_size: false
-    canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-    compute_environment_type: 1
-    cpu: 2048
-    description: ''
-    height: 500
-    id: 19da23ec-84ca-43e3-bc9c-15998c7da78e
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
-    memory: 16384
-    name: Added
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 800
-    x: 2037
-    y: -28
-  canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-  edges:
-  - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-    id: 44e2cef0-a426-4b55-be41-3653ef53ae23
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
-    source: None
-    target: None
-  - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-    id: 3ea842dd-d477-4102-8165-3043767f74a8
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
-    source: 3121d6d5-8174-454a-ac77-4611766ac7a4
-    target: 08eb4414-f699-4349-9611-4a39e8e3cd88
-  - canvas_id: fcafe5e0-6f6a-4d85-9fac-e8b80b9b8ac4
-    id: e6cdf6dc-f818-40b8-9d01-1b1dc84f9f4d
-    layer_id: 3097c9db-be44-489d-981b-44de67f6357c
-    source: 08eb4414-f699-4349-9611-4a39e8e3cd88
-    target: 19da23ec-84ca-43e3-bc9c-15998c7da78e
-  id: 3097c9db-be44-489d-981b-44de67f6357c
+  canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
+  edges: []
+  id: ff46a769-e1a2-4881-a1c8-706ba093497b
   name: Development
   type: 1
