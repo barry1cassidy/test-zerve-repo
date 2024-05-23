@@ -57,4 +57,14 @@ blocks:
   width: 800
   x: 2037
   y: -93
-edges: []
+edges:
+- canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
+  id: 08201a0c-0046-41f2-b9ac-b8bd1bb80f0d
+  layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
+  source: 91e3d36e-4c69-4547-94ce-a24213aef6a5
+  target: 9046daff-014b-4694-9b3f-c61d1d08edb4
+- canvas_id: 5e9dfd8e-a851-42e7-b7c9-0a8217d0e732
+  id: 6d5fad26-6485-4268-ac74-e1c23cf2d7c1
+  layer_id: ff46a769-e1a2-4881-a1c8-706ba093497b
+  source: 9046daff-014b-4694-9b3f-c61d1d08edb4
+  target: 7565f97c-8705-4b54-ba3d-8faca93303d0
