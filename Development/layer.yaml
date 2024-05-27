@@ -9,6 +9,24 @@ blocks:
   cpu: 2048
   description: ''
   height: 500
+  id: ce7821d1-029a-4375-9ab5-ab5390f3ce54
+  layer_id: d4b3e494-c413-4b81-abea-6f23fe156e0f
+  memory: 16384
+  name: Added in demo
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 353
+  y: -421
+- auto_size: false
+  canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
   id: b115c2ab-4712-49e9-a6fc-38489cd0a021
   layer_id: d4b3e494-c413-4b81-abea-6f23fe156e0f
   memory: 16384
@@ -19,8 +37,8 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: -1174
-  y: -925
+  x: -1620
+  y: -1111
 - auto_size: false
   canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
   compute_environment_type: 1
@@ -37,7 +55,7 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: -254
+  x: -700
   y: -454
 - auto_size: false
   canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
@@ -55,8 +73,8 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 665
-  y: -1091
+  x: 224
+  y: -1121
 edges:
 - canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
   id: e8b8876e-23fe-4e5c-9729-bbb867c70199
