@@ -27,24 +27,6 @@ blocks:
   cpu: 2048
   description: ''
   height: 500
-  id: b115c2ab-4712-49e9-a6fc-38489cd0a021
-  layer_id: d4b3e494-c413-4b81-abea-6f23fe156e0f
-  memory: 16384
-  name: Hello
-  parent_id: null
-  properties: {}
-  status: 1
-  type: 1
-  variables: null
-  width: 800
-  x: -1620
-  y: -1111
-- auto_size: false
-  canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
-  compute_environment_type: 1
-  cpu: 2048
-  description: ''
-  height: 500
   id: 0b3f197e-2bf6-4331-bd09-3ba8ac162757
   layer_id: d4b3e494-c413-4b81-abea-6f23fe156e0f
   memory: 16384
@@ -75,6 +57,24 @@ blocks:
   width: 800
   x: 224
   y: -1121
+- auto_size: false
+  canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: b115c2ab-4712-49e9-a6fc-38489cd0a021
+  layer_id: d4b3e494-c413-4b81-abea-6f23fe156e0f
+  memory: 16384
+  name: Hello
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: -1620
+  y: -1111
 edges:
 - canvas_id: fc119ce6-943c-4372-9d10-7103fc07163b
   id: e8b8876e-23fe-4e5c-9729-bbb867c70199
