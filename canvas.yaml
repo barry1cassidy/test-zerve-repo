@@ -5,7 +5,25 @@ global_imports: []
 is_public: false
 workspace_id: null
 layers:
-- blocks: []
+- blocks:
+  - auto_size: false
+    canvas_id: f8b68852-6a5b-45ff-a1c9-e53342fc4cb6
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 69b2303e-9077-480d-b135-88c9bc1bee65
+    layer_id: 4f9ed6af-5506-4699-a0e3-3dfc7b290549
+    memory: 16384
+    name: ''
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 237
+    y: 99
   canvas_id: f8b68852-6a5b-45ff-a1c9-e53342fc4cb6
   edges: []
   id: 4f9ed6af-5506-4699-a0e3-3dfc7b290549
