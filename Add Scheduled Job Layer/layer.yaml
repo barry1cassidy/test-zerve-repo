@@ -1,0 +1,24 @@
+id: 48a5e1f3-e762-4034-b9a7-8aac9913025d
+name: Add Scheduled Job Layer
+type: 5
+canvas_id: 4a3cb421-94ba-49c5-bb22-0c922f0c4427
+blocks:
+- auto_size: false
+  canvas_id: 4a3cb421-94ba-49c5-bb22-0c922f0c4427
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 83d000cb-e22e-435c-aa9c-6ce258a41f75
+  layer_id: 48a5e1f3-e762-4034-b9a7-8aac9913025d
+  memory: 16384
+  name: Hello
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 318
+  y: 78
+edges: []
