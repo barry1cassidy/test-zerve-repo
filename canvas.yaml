@@ -29,3 +29,27 @@ layers:
   id: 955b9c91-c8c8-4fc5-b0ef-ba7b791c4406
   name: Development
   type: 1
+- blocks:
+  - auto_size: false
+    canvas_id: 7aa2ee00-295d-4425-a3a3-53daa98abc18
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: 83d000cb-e22e-435c-aa9c-6ce258a41f75
+    layer_id: 48a5e1f3-e762-4034-b9a7-8aac9913025d
+    memory: 16384
+    name: Hello
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 318
+    y: 78
+  canvas_id: 4a3cb421-94ba-49c5-bb22-0c922f0c4427
+  edges: []
+  id: 48a5e1f3-e762-4034-b9a7-8aac9913025d
+  name: Add Scheduled Job Layer
+  type: 5
