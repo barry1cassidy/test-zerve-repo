@@ -42,6 +42,24 @@ layers:
     width: 800
     x: 1084
     y: 676
+  - auto_size: false
+    canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: fc94e921-0a7a-4002-9a92-02eb3f49effe
+    layer_id: 97e69a42-990f-4566-bce0-89f475edde64
+    memory: 16384
+    name: Block 3
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 1571
+    y: 172
   canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
   edges: []
   id: 97e69a42-990f-4566-bce0-89f475edde64
