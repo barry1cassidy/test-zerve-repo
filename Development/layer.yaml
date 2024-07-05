@@ -1,0 +1,42 @@
+id: 97e69a42-990f-4566-bce0-89f475edde64
+name: Development
+type: 1
+canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+blocks:
+- auto_size: false
+  canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 47604f41-525d-4b1d-8777-185204a155e9
+  layer_id: 97e69a42-990f-4566-bce0-89f475edde64
+  memory: 16384
+  name: Block 1
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 226
+  y: 56
+- auto_size: false
+  canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 2015a810-2df9-4e7f-b523-517a7b8d6422
+  layer_id: 97e69a42-990f-4566-bce0-89f475edde64
+  memory: 16384
+  name: Block 2
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 1084
+  y: 676
+edges: []
