@@ -1,4 +1,4 @@
-id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+id: 840c7a83-aca9-4445-8cdd-351325372aa0
 name: MultiLevel Branching Test
 project_id: 908baebd-97cc-4b6d-9df8-ad7f238be203
 global_imports: []
@@ -7,13 +7,13 @@ workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: 47604f41-525d-4b1d-8777-185204a155e9
-    layer_id: 97e69a42-990f-4566-bce0-89f475edde64
+    id: fd222f95-3d59-4275-b4d4-befcaf283588
+    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
     memory: 16384
     name: Block 1
     parent_id: null
@@ -22,16 +22,52 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: -447
-    y: -42
+    x: 226
+    y: 56
   - auto_size: false
-    canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: 2015a810-2df9-4e7f-b523-517a7b8d6422
-    layer_id: 97e69a42-990f-4566-bce0-89f475edde64
+    id: 82a68e2e-591d-4e5d-a70e-f5e452886d08
+    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
+    memory: 16384
+    name: Block 3
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 1571
+    y: 172
+  - auto_size: false
+    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: e3ae98ce-0a80-454d-a0d1-9911edbd0868
+    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
+    memory: 16384
+    name: Block 5
+    parent_id: null
+    properties: {}
+    status: 1
+    type: 1
+    variables: null
+    width: 800
+    x: 101
+    y: 816
+  - auto_size: false
+    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: cd3b35c0-4abd-4c7e-8354-c3de55d6db82
+    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
     memory: 16384
     name: Block 2
     parent_id: null
@@ -40,28 +76,10 @@ layers:
     type: 1
     variables: null
     width: 800
-    x: 1093
-    y: 1045
-  - auto_size: false
-    canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
-    compute_environment_type: 1
-    cpu: 2048
-    description: ''
-    height: 500
-    id: a51e5029-2f9e-4575-9603-2c03b8e57dff
-    layer_id: 97e69a42-990f-4566-bce0-89f475edde64
-    memory: 16384
-    name: Block 4
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 800
-    x: -50
-    y: 727
-  canvas_id: dc98f9b6-236a-4c3d-b03a-17113e82b76d
+    x: 1084
+    y: 676
+  canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
   edges: []
-  id: 97e69a42-990f-4566-bce0-89f475edde64
+  id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
   name: Development
   type: 1
