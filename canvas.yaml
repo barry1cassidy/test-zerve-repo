@@ -1,85 +1,31 @@
-id: 840c7a83-aca9-4445-8cdd-351325372aa0
-name: MultiLevel Branching Test
-project_id: 908baebd-97cc-4b6d-9df8-ad7f238be203
+id: 51b19e9d-2023-48ee-acb2-3614795f4a35
+name: First Canvas
+project_id: 12c09ee4-8a5c-4177-a8ff-e25a283ecfc8
 global_imports: []
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
+    canvas_id: 51b19e9d-2023-48ee-acb2-3614795f4a35
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: fd222f95-3d59-4275-b4d4-befcaf283588
-    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
+    id: 6d3e5acb-5e90-4bfe-9ce2-11a9da8f470f
+    layer_id: 136ece74-13ba-4d66-8982-59a609dfe08c
     memory: 16384
-    name: Block 1
+    name: ''
     parent_id: null
     properties: {}
     status: 1
     type: 1
     variables: null
     width: 800
-    x: 226
-    y: 56
-  - auto_size: false
-    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
-    compute_environment_type: 1
-    cpu: 2048
-    description: ''
-    height: 500
-    id: 82a68e2e-591d-4e5d-a70e-f5e452886d08
-    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
-    memory: 16384
-    name: Block 3
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 800
-    x: 1571
-    y: 172
-  - auto_size: false
-    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
-    compute_environment_type: 1
-    cpu: 2048
-    description: ''
-    height: 500
-    id: e3ae98ce-0a80-454d-a0d1-9911edbd0868
-    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
-    memory: 16384
-    name: Block 5
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 800
-    x: 101
-    y: 816
-  - auto_size: false
-    canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
-    compute_environment_type: 1
-    cpu: 2048
-    description: ''
-    height: 500
-    id: cd3b35c0-4abd-4c7e-8354-c3de55d6db82
-    layer_id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
-    memory: 16384
-    name: Block 2
-    parent_id: null
-    properties: {}
-    status: 1
-    type: 1
-    variables: null
-    width: 800
-    x: 1084
-    y: 676
-  canvas_id: 840c7a83-aca9-4445-8cdd-351325372aa0
+    x: 260
+    y: 105
+  canvas_id: 51b19e9d-2023-48ee-acb2-3614795f4a35
   edges: []
-  id: 77ed74a0-2bcc-4186-8396-f34b205dd40d
+  id: 136ece74-13ba-4d66-8982-59a609dfe08c
   name: Development
   type: 1
