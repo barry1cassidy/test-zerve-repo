@@ -1,31 +1,49 @@
-id: 51b19e9d-2023-48ee-acb2-3614795f4a35
-name: First Canvas
-project_id: 12c09ee4-8a5c-4177-a8ff-e25a283ecfc8
+id: 477cfe89-bb7b-4f26-b8d2-8c273bd4a0f0
+name: Canvas Branch with Requirements
+project_id: 63c394d6-f51e-49a3-abc0-57739e4a00d0
 global_imports: []
+requirements:
+- plotly==5.14.1
+- aws-cdk-lib==2.81.0
+- transformers==4.39.3
+- nltk==3.7
+- pygithub>=2.1.1
+- beautifulsoup4==4.10.0
+- jsii==1.82.0
+- huggingface_hub==0.22.2
+- scikit-learn==1.2.2
+- seaborn==0.12.2
+- datasets==2.18.0
+- scipy==1.10.1
+- wordcloud==1.9.2
+linux_packages:
+- test_l_package
+environment_variables:
+- test_env=2
 is_public: false
 workspace_id: null
 layers:
 - blocks:
   - auto_size: false
-    canvas_id: 51b19e9d-2023-48ee-acb2-3614795f4a35
+    canvas_id: 477cfe89-bb7b-4f26-b8d2-8c273bd4a0f0
     compute_environment_type: 1
     cpu: 2048
     description: ''
     height: 500
-    id: 6d3e5acb-5e90-4bfe-9ce2-11a9da8f470f
-    layer_id: 136ece74-13ba-4d66-8982-59a609dfe08c
+    id: 7c5f5829-47e7-4f28-9507-f7fdd89fb3ce
+    layer_id: e949ac23-7465-45ef-9665-cb2f0837fc9e
     memory: 16384
-    name: ''
+    name: Hello
     parent_id: null
     properties: {}
     status: 1
     type: 1
     variables: null
     width: 800
-    x: 260
-    y: 105
-  canvas_id: 51b19e9d-2023-48ee-acb2-3614795f4a35
+    x: 286
+    y: 151
+  canvas_id: 477cfe89-bb7b-4f26-b8d2-8c273bd4a0f0
   edges: []
-  id: 136ece74-13ba-4d66-8982-59a609dfe08c
+  id: e949ac23-7465-45ef-9665-cb2f0837fc9e
   name: Development
   type: 1
