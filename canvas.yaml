@@ -17,6 +17,7 @@ requirements:
 - scipy==1.10.1
 - wordcloud==1.9.2
 linux_packages:
+- second_package
 - test_l_package
 environment_variables:
 - test_env=2
