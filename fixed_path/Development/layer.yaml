@@ -1,0 +1,24 @@
+id: 9473c284-b76e-4a69-b230-ec3f9ad1f4f8
+name: Development
+type: 1
+canvas_id: 8676f13c-df63-4923-bcb8-2e03174b4301
+blocks:
+- auto_size: false
+  canvas_id: 8676f13c-df63-4923-bcb8-2e03174b4301
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
+  id: 7ccc74ad-296a-44a1-86c0-fb0cc8acc5ed
+  layer_id: 9473c284-b76e-4a69-b230-ec3f9ad1f4f8
+  memory: 16384
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: 374
+  y: 105
+edges: []
