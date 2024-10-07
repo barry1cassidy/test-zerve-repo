@@ -1,0 +1,37 @@
+id: fbfb1b2e-4064-4b22-a4f5-4ff5a685f9ed
+name: GitCanvas3
+project_id: 771fa429-76c0-4841-9149-bc61526d3b83
+global_imports: []
+python_global_imports: ''
+r_global_imports: ''
+requirements: []
+linux_packages: []
+environment_variables: []
+is_public: false
+workspace_id: null
+layers:
+- blocks:
+  - auto_size: false
+    canvas_id: fbfb1b2e-4064-4b22-a4f5-4ff5a685f9ed
+    compute_environment_type: 1
+    cpu: 2048
+    description: ''
+    height: 500
+    id: ddb9fd61-7920-4cd4-94ad-01e0923f0132
+    layer_id: 25ac89bb-dfa5-47dd-8c93-9d1eb534d36b
+    memory: 16384
+    name: '1'
+    parent_id: null
+    properties: {}
+    status: 3
+    type: 1
+    variables: null
+    width: 800
+    x: 331
+    y: 89
+  canvas_id: fbfb1b2e-4064-4b22-a4f5-4ff5a685f9ed
+  edges: []
+  id: 25ac89bb-dfa5-47dd-8c93-9d1eb534d36b
+  name: Development
+  type: 1
+assets: []
