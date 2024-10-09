@@ -9,6 +9,24 @@ blocks:
   cpu: 2048
   description: ''
   height: 500
+  id: 74374194-20d1-4ba6-9e37-3debf059b2ec
+  layer_id: 25ac89bb-dfa5-47dd-8c93-9d1eb534d36b
+  memory: 16384
+  name: '2'
+  parent_id: null
+  properties: {}
+  status: 1
+  type: 1
+  variables: null
+  width: 800
+  x: 920
+  y: 142
+- auto_size: false
+  canvas_id: fbfb1b2e-4064-4b22-a4f5-4ff5a685f9ed
+  compute_environment_type: 1
+  cpu: 2048
+  description: ''
+  height: 500
   id: ddb9fd61-7920-4cd4-94ad-01e0923f0132
   layer_id: 25ac89bb-dfa5-47dd-8c93-9d1eb534d36b
   memory: 16384
@@ -19,6 +37,6 @@ blocks:
   type: 1
   variables: null
   width: 800
-  x: 331
-  y: 89
+  x: -55
+  y: 42
 edges: []
