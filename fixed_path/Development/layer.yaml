@@ -15,7 +15,7 @@ blocks:
   name: '1'
   parent_id: null
   properties: {}
-  status: 1
+  status: 3
   type: 1
   variables: null
   width: 800
