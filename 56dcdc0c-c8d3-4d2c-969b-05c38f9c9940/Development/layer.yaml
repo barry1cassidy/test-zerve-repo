@@ -1,0 +1,40 @@
+id: c0746a18-95a2-4620-a073-12237b89fe70
+name: Development
+type: 1
+canvas_id: 56dcdc0c-c8d3-4d2c-969b-05c38f9c9940
+blocks:
+- auto_size: false
+  canvas_id: 56dcdc0c-c8d3-4d2c-969b-05c38f9c9940
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: 88b6a7f8-3fac-4e54-8a5a-103b92beb31e
+  layer_id: c0746a18-95a2-4620-a073-12237b89fe70
+  name: ''
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 800
+  x: 2335
+  y: 402
+- auto_size: false
+  canvas_id: 56dcdc0c-c8d3-4d2c-969b-05c38f9c9940
+  compute_settings:
+    compute_environment_type: 1
+  description: ''
+  height: 500
+  id: da3002ce-35b6-4506-bfc7-e8bacde88907
+  layer_id: c0746a18-95a2-4620-a073-12237b89fe70
+  name: Test Include Repos
+  parent_id: null
+  properties: {}
+  status: 4
+  type: 1
+  variables: null
+  width: 800
+  x: 1366
+  y: 402
+edges: []
