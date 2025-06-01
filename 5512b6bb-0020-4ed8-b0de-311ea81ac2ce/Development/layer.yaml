@@ -1,0 +1,25 @@
+id: ebab3be2-c13a-4ad8-ad24-718250e10d42
+name: Development
+type: 1
+canvas_id: 5512b6bb-0020-4ed8-b0de-311ea81ac2ce
+blocks:
+- auto_size: false
+  canvas_id: 5512b6bb-0020-4ed8-b0de-311ea81ac2ce
+  compute_settings:
+    compute_environment_type: 1
+    executor_id: null
+    executor_image_id: null
+  description: ''
+  height: 1000
+  id: 159d3022-7738-4be6-9965-395ea2e93335
+  layer_id: ebab3be2-c13a-4ad8-ad24-718250e10d42
+  name: '1'
+  parent_id: null
+  properties: {}
+  status: 3
+  type: 1
+  variables: null
+  width: 1600
+  x: 375
+  y: 278
+edges: []
